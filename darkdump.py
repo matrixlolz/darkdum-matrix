@@ -56,7 +56,7 @@ Note:
     This tool is not to be used for illegal purposes.
     The author is not responsible for any misuse of Darkdump.
     May God bless you all.
-    t.me/infernomethods - https://github.com/voidxmatrix
+    t.me/ishowmatrix - https://github.com/matrixlolz
 '''
 
 class Colors:
